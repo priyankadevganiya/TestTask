@@ -4,7 +4,7 @@ import './canvas.scss';
 
 const Canvas = () => {
   return(
-    <div className="canvas" />
+    <div id="canvas" />
   )
 };
 

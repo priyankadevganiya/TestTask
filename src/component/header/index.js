@@ -6,7 +6,7 @@ const Header = () => (
   <div className="navigation">
     <div className="leftSide">
       <div className="details">
-        <div className="back"><img src="assets/arrow.svg"/></div>
+        <div className="back"><img src="assets/arrow.svg" alt={'arrow'}/></div>
         <div className="names">
           <p className="title">Your automation pipeline</p>
           <p className="subtitle">Marketing automation</p>
